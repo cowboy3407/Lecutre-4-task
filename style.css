@@ -3,7 +3,17 @@
     background-color: cyan
 }
 
+.box {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #CBE2B5;
+}
 
+a {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #CBE2B5;
+}
 
 div  {
     font-size: 20px;
@@ -30,5 +40,25 @@ h2 {
     color: black;
     font-weight: 100;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
+
+} 
+
+p {
+    font-size: 17px;
+    color: gray;
+background-color: aquamarine;
+}
+
+.s {
+    font-size: 20px;
+    color: gray;
+    background-color: blue;
+}
+
+
+#unique {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+
 }
